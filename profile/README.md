@@ -1,88 +1,36 @@
 ## FOS (Focus on Speaking)
 <img width="1230" height="694" alt="FOS intro" src="https://github.com/user-attachments/assets/d9f63c92-d7d7-493d-b77c-d8c98f310c1f" />
+Team Potato Savior
 
-FOS is a real-time AI prompter designed to seamlessly integrate with smart displays (e.g., LG signage).
-It supports the entire presentation and meeting flow — before, during, and after — using advanced speech analysis and AI-driven feedback.
+FoS is an LG display–linked real-time meeting AI prompter that extends a traditional teleprompter into an active, context-aware assistant.  
+It supports the entire lifecycle of presentations and meetings – before, during, and after – by listening to speech, understanding context, and surfacing the next required information on LG displays and personal dashboards.
 
-🧩 Key Features
+### Proposal
 
-Real-time teleprompter with fast, stable STT
+We introduce FoS (Focus on Speaking), a real-time AI meeting prompter that extends a traditional teleprompter into an active, context-aware assistant. In modern presentations and meetings, speakers must simultaneously manage speech delivery, script reference, slide transitions, time constraints, and audience reactions. Participants, meanwhile, struggle to follow complex discussion flows and remember key decisions. This cognitive overload often leads to omitted content, topic drift, and ambiguous outcomes, reducing both presentation quality and meeting efficiency.
 
-Script–speech synchronization using KoSentence-BERT + LLM
+FoS addresses these challenges by linking an AI-driven teleprompter with LG displays and a dual-screen architecture. The system continuously listens to meeting audio, performs real-time STT, and semantically aligns speech with the prepared script using KoSentence-BERT and LLMs. When important content is skipped, FoS detects omissions, proposes natural bridging sentences, and automatically highlights the next relevant part of the script. At the same time, it visualizes an agenda map, decisions, and action items on a shared display while providing a private coaching dashboard for the presenter that shows pace, progress, and AI suggestions without distracting the audience.
 
-Keyword omission detection & missing content recovery
+From an organizational perspective, FoS transforms raw meeting speech into structured, reusable knowledge. Utterances are tagged by intent (idea, decision, action item, question, fact-check request), aggregated into an agenda network, and summarized into a Meeting Summary Report containing topics, decisions, follow-up tasks, and referenced evidence. This persistent data layer not only improves documentation quality but also enables analysis of meeting efficiency and decision-making patterns over time. By integrating seamlessly with LG’s smart office ecosystem and cloud-based AI services, FoS offers a practical, extensible platform for more focused presentations and smarter, outcome-driven meetings.
 
-Real-time script reconstruction for more natural follow-up delivery
+### Key ideas:
 
-Presenter dashboard: speaking speed, progress tracking, clarity score
+- Real-time STT and script–speech synchronization
+- Keyword omission detection and real-time script reconstruction
+- Dual-screen architecture (Presenter Dashboard + Shared Meeting Board on LG displays)
+- Agenda map, decision/action-item widget, and fact-check widget
+- Automatic Meeting Summary Report after each session
 
-Meeting Mode (Agenda Map)
+### Architecture Design
+<img width="2880" height="1524" alt="SWarchitecture" src="https://github.com/user-attachments/assets/26e4a3ec-a780-4ed7-b1c6-062eef7cf28c" />
 
-Real-time utterance intent tagging (idea / decision / action item / question / issue)
+### [Potato Savoir] Members
 
-Topic clustering & agenda flow visualization
-
-Decision–Action Item auto-tracking
-
-Fact-check widget (RAG or web search 기반)
-
-Automated meeting summary & key insights extraction
-
-🚀 Live Demo
-
-FOS is deployed on Vercel:
-https://focusonspeaking.vercel.app/
-
-(로그인이 필요한 기능은 비활성화될 수 있음)
-
-🧱 Project Documentation
-1. Overview Paper (IEEE-style)
-
-프로젝트 개요, 요구사항, 시스템 아키텍처는 다음 문서에 정리되어 있습니다:
-docs/fos_paper.tex
-
-2. Architecture Diagram
-
-전체 시스템 구조 (Frontend / Meeting AI / Teleprompter Engine / Dashboard / Back-end)
-→ 프로젝트 README 또는 문서 내 다이어그램 참고
-
-3. Repository Structure
-
-전체 코드 구조는 아래 문서 참고:
-structure.md
-
-🛠 Tech Stack
-
-Frontend
-
-React + Vite
-
-Tailwind / shadcn UI
-
-Web Speech API
-
-Recharts & custom visualization modules
-
-AI / Backend
-
-LLM pipeline (OpenAI / Gemini)
-
-KoSentence-BERT for sentence alignment
-
-FastAPI or Node (depending on deployment)
-
-RAG-based fact-check pipeline
-
-Vercel Edge Functions
-
-Supabase / Mongo / Firebase (선택적)
-
-🥔 Organization Mission
-
-실시간 AI 기반 발표·회의 경험 혁신
-
-직관적이고 자연스러운 Human–AI Interaction 연구
-
-학술적 가치 + 실용적 UX를 모두 갖춘 AI 엔지니어링
-
-창의적인 프로젝트를 자유롭게 실험하는 공간
+| Name          | Department / Division                   | Role                       | Location                 | Email                     |
+|---------------|------------------------------------------|-----------------------------|---------------------------|----------------------------|
+| Sangyoon Kwon | Department of Computer Science           | Backend Development         | Seoul, Republic of Korea | is0110@hanyang.ac.kr      |
+| Hyeyun Kwon   | Department of Information Systems        | Frontend Development        | Seoul, Republic of Korea | herakwon1124@hanyang.ac.kr|
+| Dohoon Kim    | Department of Computer Science           | Backend Development         | Seoul, Republic of Korea | april2901@hanyang.ac.kr   |
+| Seohyun Kim   | Department of Information Systems        | Frontend Development        | Seoul, Republic of Korea | dianwls0326@hanyang.ac.kr |
+| Daeun Lee     | Division of Business Administration      | UI Design, PM, User Testing | Seoul, Republic of Korea | shinran2929@hanyang.ac.kr |
+| Minhyuk Jang  | Division of Business Administration      | UI Design, PM, User Testing | Seoul, Republic of Korea | jmh12230@hanyang.ac.kr    |
