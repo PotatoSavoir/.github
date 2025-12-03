@@ -1,11 +1,5 @@
-🥔 Potato Savoir
-
-Also a talking potato? Come join us!
-
-Potato Savoir is a creative engineering organization exploring human–AI interaction, real-time speech systems, and experimental UX design.
-Our flagship project is FOS (Focus on Speaking) — a real-time AI presentation & meeting assistant.
-
-🔥 Main Project: FOS (Focus on Speaking)
+## FOS (Focus on Speaking)
+<img width="1230" height="694" alt="FOS intro" src="https://github.com/user-attachments/assets/d9f63c92-d7d7-493d-b77c-d8c98f310c1f" />
 
 FOS is a real-time AI prompter designed to seamlessly integrate with smart displays (e.g., LG signage).
 It supports the entire presentation and meeting flow — before, during, and after — using advanced speech analysis and AI-driven feedback.
