@@ -1,8 +1,8 @@
 
-## FOS (Focus on Speaking)
+## 🗣️ FOS (Focus on Speaking)
 <img width="1230" alt="FOS intro" src="https://github.com/user-attachments/assets/d9f63c92-d7d7-493d-b77c-d8c98f310c1f" />
 
-### Team Potato Savior
+### 25-2 Hanyang University Software Engineering Project Team Potato Savior
 
 FoS is an LG display–linked real-time meeting AI prompter that transforms a traditional teleprompter into an active, context-aware assistant. It supports the entire lifecycle of presentations and meetings – before, during, and after – by listening to speech, understanding context, and surfacing the next required information on LG displays and personal dashboards.
 
@@ -52,10 +52,3 @@ By integrating tightly with **LG Smart Office (webOS, One:Quick, signage)** and 
 | Daeun Lee     | Division of Business Administration      | UI Design, PM, User Testing | Seoul, Republic of Korea | shinran2929@hanyang.ac.kr |
 | Minhyuk Jang  | Division of Business Administration      | UI Design, PM, User Testing | Seoul, Republic of Korea | jmh12230@hanyang.ac.kr    |
 
----
-
-원하면 아래도 바로 만들어줄 수 있어:
-- 깔끔한 헤더 이미지 추가 버전
-- ALIVE 스타일처럼 좌측에 회색 라인 있는 Quote 헤더 꾸미기  
-- 기능/시스템 요구사항/테스트 케이스 섹션 자동 요약 버전  
-- 버튼 스타일 링크 추가 (e.g., “Live Demo”, “Paper”, “Repo”)
