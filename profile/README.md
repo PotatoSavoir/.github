@@ -1,8 +1,8 @@
 
-## 🗣️ FOS (Focus on Speaking)
+## FOS (Focus on Speaking): An AI-Powered Real-Time Presentation & Meeting Assistant for Enhanced Clarity and Intelligent Visualization
 <img width="1230" alt="FOS intro" src="https://github.com/user-attachments/assets/d9f63c92-d7d7-493d-b77c-d8c98f310c1f" />
 
-### 25-2 Hanyang University Software Engineering Project Team Potato Savior
+### 25-2 Hanyang University Software Engineering Project
 
 FoS is an LG display–linked real-time meeting AI prompter that transforms a traditional teleprompter into an active, context-aware assistant. It supports the entire lifecycle of presentations and meetings – before, during, and after – by listening to speech, understanding context, and surfacing the next required information on LG displays and personal dashboards.
 
