@@ -46,10 +46,10 @@ By integrating tightly with **LG Smart Office (webOS, One:Quick, signage)** and 
 
 | Name          | Department / Division                   | Role                       | Email                     |
 |---------------|------------------------------------------|-----------------------------|----------------------------|
-| Sangyoon Kwon | Department of Computer Science           | Backend Development         | is0110@hanyang.ac.kr      |
-| Hyeyun Kwon   | Department of Information Systems        | Frontend Development        | herakwon1124@hanyang.ac.kr |
-| Dohoon Kim    | Department of Computer Science           | Backend Development         | april2901@hanyang.ac.kr   |
-| Seohyun Kim   | Department of Information Systems        | Frontend Development        | dianwls0326@hanyang.ac.kr |
-| Daeun Lee     | Division of Business Administration      | UI Design, PM, User Testing | shinran2929@hanyang.ac.kr |
-| Minhyuk Jang  | Division of Business Administration      | UI Design, PM, User Testing | jmh12230@hanyang.ac.kr    |
+| Sangyoon Kwon | Computer Science           | Backend Development         | is0110@hanyang.ac.kr      |
+| Hyeyun Kwon   | Information Systems        | Frontend Development        | herakwon1124@hanyang.ac.kr |
+| Dohoon Kim    | Computer Science           | Backend Development         | april2901@hanyang.ac.kr   |
+| Seohyun Kim   | Information Systems        | Frontend Development        | dianwls0326@hanyang.ac.kr |
+| Daeun Lee     | Business Administration      | UI Design, PM, User Testing | shinran2929@hanyang.ac.kr |
+| Minhyuk Jang  | Business Administration      | UI Design, PM, User Testing | jmh12230@hanyang.ac.kr    |
 
