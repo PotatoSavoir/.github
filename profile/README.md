@@ -1,55 +1,68 @@
-
-# 🗣️ Focus on Speaking(FoS)
+# 🗣️ Focus on Speaking (FoS)
 ## An AI-Powered Real-Time Presentation & Meeting Assistant for Enhanced Clarity and Intelligent Visualization
-<img width="1230" alt="FOS intro" src="https://github.com/user-attachments/assets/d9f63c92-d7d7-493d-b77c-d8c98f310c1f" />
+
+<img width="613" height="345" alt="FoS overview" src="https://github.com/user-attachments/assets/fcaabd7f-fa7b-43df-bc9d-dc03b456200c" />
 
 ### 25-2 Hanyang University Software Engineering Project
 
-FoS is an LG display–linked real-time meeting AI prompter that transforms a traditional teleprompter into an active, context-aware assistant. It supports the entire lifecycle of presentations and meetings – before, during, and after – by listening to speech, understanding context, and surfacing the next required information on LG displays and personal dashboards.
+**Focus on Speaking(FoS)** is an AI-powered real-time presentation and meeting assistant designed to support the speaker’s *“moment of speaking”* without interruption.  
+By combining STT-based teleprompting with intelligent meeting visualization, FoS delivers a seamless experience across both presentation and discussion phases.
+
+FoS tracks the speaker’s script progress in real time, highlights where they should be reading, and suggests natural supplementary sentences when important content is unintentionally skipped.  
+In meeting mode, FoS automatically structures spoken content into topics, ideas, and decisions, visualizing them as an evolving agenda map so participants can stay aligned and focused.
+
+Through this integrated approach, FoS transforms scattered speech logs into **clear, navigable, and reusable knowledge**, enabling users to concentrate fully on communication rather than managing tools, screens, or notes.
 
 ---
 
 ## 💡 Proposal
 
-We introduce **FoS (Focus on Speaking)**, a real-time AI meeting prompter designed to reduce cognitive overload during presentations and discussions.  
-Modern speakers must manage speech delivery, scripts, slide transitions, time, and audience reactions simultaneously, while participants struggle to track ideas, decisions, and follow-up tasks. This often leads to **omitted content, topic drift, unclear decisions, and reduced meeting efficiency.**
+We introduce **FoS**, an AI-driven assistant designed to reduce cognitive load during presentations and meetings.  
+Modern speakers must manage scripts, slides, timing, and audience reactions simultaneously, while meeting participants often struggle to follow shifting topics and track decisions.  
+These difficulties frequently lead to **missed content, topic drift, unclear conclusions, and inefficient communication.**
 
-FoS addresses these issues by integrating **real-time STT, semantic speech–script alignment (KoSentence-BERT + LLM), dual-screen teleprompter architecture, and a structured meeting-intelligence system.**
+FoS addresses these challenges through:
 
-When key content is skipped, FoS detects omissions, suggests natural bridging sentences, and automatically highlights the correct script segment. Meanwhile, the shared LG display visualizes the **agenda map, decisions, action items, and fact-checks**, while the presenter sees a private dashboard of pace, progress, and AI suggestions.
+- Real-time STT  
+- Intelligent speech–script alignment  
+- Omission detection & AI-based reconstruction  
+- Dual-screen teleprompting  
+- Structured meeting visualization
 
-From an organizational perspective, FoS converts raw speech into **structured, reusable meeting knowledge**. Utterances are tagged by intent (idea, decision, action item, question), organized into a real-time agenda graph, and exported as a **Meeting Summary Report**.  
-This enhances documentation quality, meeting recall, and long-term decision tracking.
+When key content is skipped, FoS identifies the omission and proposes natural bridging sentences while keeping the teleprompter aligned.  
+On shared displays (e.g., LG One:Quick, signage), FoS visualizes the **agenda graph, decisions, and action items**, while the presenter privately views AI suggestions and speaking progress.
 
-By integrating tightly with **LG Smart Office (webOS, One:Quick, signage)** and cloud AI services, FoS provides a practical, extensible platform for more focused presentations and smarter meetings.
+Ultimately, FoS converts raw speech into **organized, actionable meeting knowledge**, enhancing documentation quality, recall, and decision tracking.
 
 ---
 
 ## 🔑 Key Features
 
-- Real-time STT and speech–script synchronization  
-- Keyword omission detection + real-time script reconstruction  
-- Dual-screen architecture (Presenter Dashboard + LG Shared Display)  
-- Real-time agenda map & intent tagging  
-- Decision / Action Item widget  
-- Fact-check widget (RAG + web search)  
+- Real-time STT & speech–script synchronization  
+- Omission detection and LLM-based script reconstruction  
+- Dual-screen architecture (Presenter Dashboard + Shared Display)  
+- Real-time agenda map & intent categorization  
+- Decision / Action Item extraction  
+- Fact-check widget (RAG + live search)  
 - Automatic Meeting Summary Report  
 
 ---
 
 ## 🏗 Architecture Design
+
 <img width="2880" alt="SWarchitecture" src="https://github.com/user-attachments/assets/26e4a3ec-a780-4ed7-b1c6-062eef7cf28c" />
 
 ---
 
-## Team [Potato Savior] Members
+## 👥 Team [Potato Savior]
 
-| Name          | Department / Division                   | Role                       | Email                     |
-|---------------|------------------------------------------|-----------------------------|----------------------------|
-| Sangyoon Kwon | Computer Science           | Backend Development         | is0110@hanyang.ac.kr      |
-| Hyeyun Kwon   | Information Systems        | Frontend Development        | herakwon1124@hanyang.ac.kr |
-| Dohoon Kim    | Computer Science           | Backend Development         | april2901@hanyang.ac.kr   |
-| Seohyun Kim   | Information Systems        | Frontend Development        | dianwls0326@hanyang.ac.kr |
+| Name          | Department / Division        | Role                       | Email                     |
+|---------------|------------------------------|-----------------------------|----------------------------|
+| Sangyoon Kwon | Computer Science             | Backend Development         | is0110@hanyang.ac.kr      |
+| Hyeyun Kwon   | Information Systems          | Frontend Development        | herakwon1124@hanyang.ac.kr |
+| Dohoon Kim    | Computer Science             | Backend Development         | april2901@hanyang.ac.kr   |
+| Seohyun Kim   | Information Systems          | Frontend Development        | dianwls0326@hanyang.ac.kr |
 | Daeun Lee     | Business Administration      | UI Design, PM, User Testing | shinran2929@hanyang.ac.kr |
 | Minhyuk Jang  | Business Administration      | UI Design, PM, User Testing | jmh12230@hanyang.ac.kr    |
+
 
