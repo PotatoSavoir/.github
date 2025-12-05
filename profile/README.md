@@ -26,7 +26,6 @@ FoS addresses these challenges through:
 - Real-time STT  
 - Intelligent speech–script alignment  
 - Omission detection & AI-based reconstruction  
-- Dual-screen teleprompting  
 - Structured meeting visualization
 
 When key content is skipped, FoS identifies the omission and proposes natural bridging sentences while keeping the teleprompter aligned.  
@@ -39,12 +38,10 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 ## 🔑 Key Features
 
 - Real-time STT & speech–script synchronization  
-- Omission detection and LLM-based script reconstruction  
-- Dual-screen architecture (Presenter Dashboard + Shared Display)  
+- Omission detection and LLM-based script reconstruction
 - Real-time agenda map & intent categorization  
-- Decision / Action Item extraction  
-- Fact-check widget (RAG + live search)  
-- Automatic Meeting Summary Report  
+- Decision / Action Item extraction 
+- Meeting Summary Report  
 
 ---
 
