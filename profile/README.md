@@ -1,19 +1,13 @@
 # 🗣️ Focus on Speaking (FoS)
-## An AI-Powered Real-Time Presentation & Meeting Assistant for Enhanced Clarity and Intelligent Visualization
-
-<img width="613" height="345" alt="FoS overview" src="https://github.com/user-attachments/assets/fcaabd7f-fa7b-43df-bc9d-dc03b456200c" />
-
 ### 25-2 Hanyang University Software Engineering Project
 
-**Focus on Speaking(FoS)** is an AI-powered real-time presentation and meeting assistant designed to support the speaker’s *“moment of speaking”* without interruption.  
-By combining STT-based teleprompting with intelligent meeting visualization, FoS delivers a seamless experience across both presentation and discussion phases.
+<img width=full alt="FoS overview" src="https://github.com/user-attachments/assets/fcaabd7f-fa7b-43df-bc9d-dc03b456200c" />
 
-FoS tracks the speaker’s script progress in real time, highlights where they should be reading, and suggests natural supplementary sentences when important content is unintentionally skipped.  
-In meeting mode, FoS automatically structures spoken content into topics, ideas, and decisions, visualizing them as an evolving agenda map so participants can stay aligned and focused.
+<br/>
+<br/>
+<br/>
+<br/>
 
-Through this integrated approach, FoS transforms scattered speech logs into **clear, navigable, and reusable knowledge**, enabling users to concentrate fully on communication rather than managing tools, screens, or notes.
-
----
 
 ## 💡 Proposal
 
@@ -33,30 +27,33 @@ On shared displays (e.g., LG One:Quick, signage), FoS visualizes the **agenda gr
 
 Ultimately, FoS converts raw speech into **organized, actionable meeting knowledge**, enhancing documentation quality, recall, and decision tracking.
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
-## 🔑 Key Features
-
-- Real-time STT & speech–script synchronization  
-- Omission detection and LLM-based script reconstruction
-- Real-time agenda map & intent categorization  
-- Decision / Action Item extraction 
-- Meeting Summary Report  
-
----
 
 ## 🏗 Architecture Design
 
 <img width="2880" alt="SWarchitecture" src="https://github.com/user-attachments/assets/26e4a3ec-a780-4ed7-b1c6-062eef7cf28c" />
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## 🔗 Links
-https://focusonspeaking.vercel.app/  
+SERVICE: https://focusonspeaking.vercel.app/  
 BLOG: https://alabaster-laser-8bf.notion.site/FoS-Focus-on-Speaking-2bddfb3b4d6a80f18505e4160e7b3f21?source=copy_link  
 VIDEO: https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## 👥 Team Members
 
