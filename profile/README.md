@@ -52,7 +52,7 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 ---
 
 ## 🔗 Links
-BLOG: https://alabaster-laser-8bf.notion.site/FoS-Focus-on-Speaking-2bddfb3b4d6a80f18505e4160e7b3f21?source=copy_link
+BLOG: https://alabaster-laser-8bf.notion.site/FoS-Focus-on-Speaking-2bddfb3b4d6a80f18505e4160e7b3f21?source=copy_link  
 VIDEO: https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be
 
 ---
