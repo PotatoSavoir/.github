@@ -35,7 +35,7 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 
 ## 🏗 Architecture Design
 
-<img width="2880" alt="SWarchitecture" src="https://github.com/user-attachments/assets/26e4a3ec-a780-4ed7-b1c6-062eef7cf28c" />
+<img width="2880" alt="SWarchitecture" src="https://github.com/SWE-FoS/document/issues/1#issue-3704427528" />
 
 <br/>
 <br/>
