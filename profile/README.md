@@ -41,20 +41,14 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 <br/>
 
 ## ▶️ Video
-<a href="https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be" target="_blank">
-  <img
-    src="assets/fos-video-banner.png"
-    alt="FoS Demo Video – Don’t do anything else. Just speak."
-    width="100%"
-  />
-</a>
+[<img width="1440" height="810" alt="fos overview video" src="https://github.com/user-attachments/assets/7065608b-a55e-407c-a605-b05142456f68" />](https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be)
+
 <br/>
 <br/>
 
 ## 🔗 Links
 SERVICE: https://focusonspeaking.vercel.app/  
 BLOG: https://alabaster-laser-8bf.notion.site/FoS-Focus-on-Speaking-2bddfb3b4d6a80f18505e4160e7b3f21?source=copy_link  
-VIDEO: https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be  
 SLIDES: [FoS LG Demo Slides (PDF)](docs/FoS_LG_Demo.pdf)
 
 <br/>
