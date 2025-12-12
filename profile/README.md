@@ -7,8 +7,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ## 💡 Proposal
@@ -31,8 +29,6 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ## 🏗 Architecture Design
@@ -44,6 +40,16 @@ Ultimately, FoS converts raw speech into **organized, actionable meeting knowled
 <br/>
 <br/>
 
+## ▶️ Video
+<a href="https://www.youtube.com/watch?v=royprS6XAPg" target="_blank">
+  <img
+    src="https://img.youtube.com/vi/royprS6XAPg/maxresdefault.jpg"
+    alt="FoS Demo Video"
+    width="100%"
+  />
+</a>
+<br/>
+<br/>
 
 ## 🔗 Links
 SERVICE: https://focusonspeaking.vercel.app/  
@@ -51,8 +57,6 @@ BLOG: https://alabaster-laser-8bf.notion.site/FoS-Focus-on-Speaking-2bddfb3b4d6a
 VIDEO: https://www.youtube.com/watch?v=royprS6XAPg&feature=youtu.be  
 SLIDES: [FoS LG Demo Slides (PDF)](docs/FoS_LG_Demo.pdf)
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
