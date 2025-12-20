@@ -68,3 +68,14 @@ SLIDES: [FoS LG Demo Slides (PDF)](docs/FoS_LG_Demo.pdf)
 | Seohyun Kim   | Information Systems          | Frontend Development        | dianwls0326@hanyang.ac.kr |
 | Daeun Lee     | Business Administration      | UI Design, PM, User Testing | shinran2929@hanyang.ac.kr |
 | Minhyuk Jang  | Business Administration      | UI Design, PM, User Testing | jmh12230@hanyang.ac.kr    |
+
+## 👥 Team Members
+
+| 이름          | 학과        | 역할                       | Email                     |
+|---------------|------------------------------|-----------------------------|----------------------------|
+| 권상윤 | 컴퓨터소프트웨어학부             | 백엔드 개발         | is0110@hanyang.ac.kr      |
+| 권혜윤   | 정보시스템학과          | 프론트엔드 개발        | herakwon1124@hanyang.ac.kr |
+| 김도훈    | 컴퓨터소프트웨어학부             | 백엔드 개발         | april2901@hanyang.ac.kr   |
+| 김서현   | 정보시스템학과          | 프론트엔드 개발        | dianwls0326@hanyang.ac.kr |
+| 이다은     | 경영학부      | UI 디자인, PM, 유저 테스팅 | shinran2929@hanyang.ac.kr |
+| 장민혁  | 경영학부      | UI 디자인, PM, 유저 테스팅 | jmh12230@hanyang.ac.kr    |
